@@ -1,5 +1,5 @@
 # MaisemaBIM
-Alternative versions of MaisemaBIM vegetation models. Dataset contains simple trees bush, hedge and perennial plan 3D models.
+Alternative versions of MaisemaBIM vegetation models. Dataset contains simple trees bush, hedge and perennial plant 3D models.
 
 ## Original data
 - MaisemaBIM system information (in Finnish) from BuildingSmart Finland: https://wiki.buildingsmart.fi/fi/04_Julkaisut_ja_Standardit/maisema-bim
